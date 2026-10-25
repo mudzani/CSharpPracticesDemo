@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="CSharpPracticesDemo.csproj" />
+  <Folder Name="/CSharpPracticesDemo/" />
+  <Folder Name="/CSharpPracticesDemo/BasicVariables/">
+    <Project Path="d/d.csproj" Id="a91ec191-8456-4373-b9dd-8e67429f10af" />
+  </Folder>
 </Solution>
