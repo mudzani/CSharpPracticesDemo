@@ -1,6 +1,12 @@
 <Solution>
-  <Folder Name="/CSharpPracticesDemo/" />
-  <Folder Name="/CSharpPracticesDemo/BasicVariables/">
-    <Project Path="d/d.csproj" Id="a91ec191-8456-4373-b9dd-8e67429f10af" />
+  <Folder Name="/CSharpPracticesDemo/">
+    <Project Path="BooleanVote/BooleanVote.csproj" Id="975c3dba-8b94-4324-aa58-56aabd31b129" />
+    <Project Path="ConfigurationSettings/ConfigurationSettings.csproj" Id="0404018d-23a4-437a-8621-f8ad689a7b1a" />
+    <Project Path="ConstantVariables/ConstantVariables.csproj" Id="c7070412-7486-46ef-8f7e-cc1f7c5a88d5" />
+    <Project Path="DataProcessingUtility/DataProcessingUtility.csproj" Id="ed574e5d-78af-446d-9a07-b3d29f5eb59e" />
+    <Project Path="LegacyDataProcessing/LegacyDataProcessing.csproj" Id="b2019533-9ebc-48a5-be4e-ec8f7e729606" />
+    <Project Path="TypeAndCastCalculator/TypeAndCastCalculator.csproj" Id="475bcfe2-da2c-44ee-8348-39e4f19c9e1d" />
+    <Project Path="UserProfileInput/UserProfileInput.csproj" Id="16c276cb-55a2-4849-be2c-abb928c9e5fa" />
   </Folder>
+  <Project Path="BasicVariables/BasicVariables.csproj" Id="0b4a49e4-99ec-4ab2-a96a-78ef2c7f0be8" />
 </Solution>
